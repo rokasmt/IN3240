@@ -1,3 +1,3 @@
-# IN3240
+# IN3240 Software testing
 
 Mandatory assignment
