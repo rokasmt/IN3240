@@ -6,6 +6,6 @@ Mandatory assignment
 
 --part2 
 
---part 3
+--part3
 
---part 4
+--part4
